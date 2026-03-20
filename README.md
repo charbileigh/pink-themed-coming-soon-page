@@ -92,5 +92,8 @@ This project is open-source and free to use for personal or commercial purposes.
 
 ## 💬 Author
 
+- [@Chabi Francesca Seopa](https://www.github.com/charbileigh)
+
+
 **Chabi's Portfolio**  
 Made with Love✨ 
