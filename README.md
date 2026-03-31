@@ -23,7 +23,7 @@ project-folder/
 ├── styles.css       
 ├── script.js        
 └── images/
-    └── favicon.ico  # Site icon
+    └── favicon.ico  
 ```
 
 ---
@@ -91,7 +91,7 @@ This project is open-source and free to use for personal or commercial purposes.
 
 ---
 
-## 💬 Author
+## Author
 
 - [@Chabi Francesca Seopa](https://www.github.com/charbileigh)
 
